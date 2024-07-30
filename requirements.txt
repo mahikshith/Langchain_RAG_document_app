@@ -8,3 +8,4 @@ faiss-cpu
 pypdf
 streamlit
 google-generativeai 
+langchain_google_genai 
